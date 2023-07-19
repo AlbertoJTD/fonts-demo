@@ -3,4 +3,4 @@ using Xamarin.Forms;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 
-[assembly: ExportFont("Baliung.ttf")]
+[assembly: ExportFont("Baliung.ttf", Alias = "FB")]
